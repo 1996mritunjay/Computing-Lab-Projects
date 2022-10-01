@@ -1,0 +1,4 @@
+Iteration	Root		Error
+1		0.034483	-0.965517
+
+Root is:0.034483

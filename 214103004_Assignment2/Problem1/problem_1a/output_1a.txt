@@ -1,0 +1,12 @@
+Unique Solution!
+The Augmented matrix After Forward Elimination:
+1.000	1.000	-1.000	2.000	
+0.000	6.000	-8.000	22.000	
+0.000	0.000	16.667	-33.333	
+
+
+The solution is: 
+
+X1=-1.000000	
+X2=1.000000	
+X3=-2.000000	
